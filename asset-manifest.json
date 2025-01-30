@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/11AN-CODE/Notion-site/static/css/main.7fe05bfa.css",
-    "main.js": "/11AN-CODE/Notion-site/static/js/main.7e42ad00.js",
-    "service-worker.js": "/11AN-CODE/Notion-site/service-worker.js",
-    "index.html": "/11AN-CODE/Notion-site/index.html",
-    "main.7fe05bfa.css.map": "/11AN-CODE/Notion-site/static/css/main.7fe05bfa.css.map",
-    "main.7e42ad00.js.map": "/11AN-CODE/Notion-site/static/js/main.7e42ad00.js.map"
+    "main.css": "/Notion-site/static/css/main.7fe05bfa.css",
+    "main.js": "/Notion-site/static/js/main.7e42ad00.js",
+    "service-worker.js": "/Notion-site/service-worker.js",
+    "index.html": "/Notion-site/index.html",
+    "main.7fe05bfa.css.map": "/Notion-site/static/css/main.7fe05bfa.css.map",
+    "main.7e42ad00.js.map": "/Notion-site/static/js/main.7e42ad00.js.map"
   },
   "entrypoints": [
     "static/css/main.7fe05bfa.css",
